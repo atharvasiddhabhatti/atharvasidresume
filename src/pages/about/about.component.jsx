@@ -21,16 +21,13 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-                Hi there! I am <strong>&nbsp;Anand Kumar Jha</strong>
-                <br />A passionate programmer and a Coach, born and brought up in India. I am a Full Stack Web Developer with React.js, Redux, Express.js, Node.js, and PostgreSQL as my tech stack.
-                <br />
-                In 2019, I successfully completed my Engineering with specialization in 'Electronics and Telecommunication'.
-                <br />
-                Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
-                <br />
-                Along with that, I also help people as a COACH on their journey of becoming a professional programmer. 
-                <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
-                <br /> <br />
+                Hello, I am <strong>&nbsp;Atharva Siddhabhatti</strong>
+                <br />I am Currently studying in Final Year of Engineering in <strong>Computer Science & Engineering</strong> from G.H. Raisoni College Of Engineering, Nagpur.
+                <br />As a part of the final year I am Currently pursuing internship  at Clougile Technologies. As a part of the internship I am working on Mobile App and Game Development in React Native.
+                <br />As a part of self  learning I have done few of the certification in Google Cloud such as Essential Google Cloud Infrastructure: Core Services. Apart from this I am a <strong>Redhat Certified System Administrator and Redhat Certified Engineer.</strong>
+                
+                
+  
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
                     <a href="#contact">
@@ -40,21 +37,21 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="https://drive.google.com/file/d/1Snbq3x4Itk_ZN4c8J96aNdp4SunXR08Y/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1Rjtaj7xq6fPwurc4uX34SwE5mCUnt4Li/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
                     </a>
                   </div>
                   <div>
-                    <a href="https://github.com/akjha96" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/atharvasiddhabhatti" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-dark">
                         GitHub
                       </Button>
                     </a>
                   </div>
                   <div>
-                    <a href="https://www.linkedin.com/in/anand-kumar-jha-745798a4/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/atharva-siddhabhatti-b057a2191/" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-info">
                         LinkedIn
                       </Button>

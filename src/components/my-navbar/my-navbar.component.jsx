@@ -14,9 +14,7 @@ const MyNavbar = () => {
         className="animate-navbar nav-theme justify-content-between"
       >
         <div>
-          <Navbar.Brand href="#home">
-            <img className="logo" src={Logo} alt="" />
-          </Navbar.Brand>
+         
         </div>
         <div>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />

@@ -3,6 +3,7 @@ import Container from "react-bootstrap/Container";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Card from "react-bootstrap/Card";
 import L_ACCENTURE from "../../assets/img/experience/accenture-3.svg";
+import L_CLOUGILE from "../../assets/img/experience/clougile.png"
 import Tilt from "react-tilt";
 import "./experience.styles.css";
 
@@ -15,30 +16,25 @@ const Experience = () => {
           <Tilt options={{ max: 25 }}>
             <Card>
               <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
-                <Card.Img variant="top" className="img-resize" src={L_ACCENTURE} alt="Accenture logo" />
+                <Card.Img variant="top" className="img-resize" src={L_CLOUGILE} alt="Clougile logo" />
               </Card.Header>
               <Card.Body className="d-flex justify-content-center flex-column">
                 <div>
-                  <Card.Title className="text-center">Associate Software Engineer</Card.Title>
+                  <Card.Title className="text-center">Internship</Card.Title>
                 </div>
                 <div>
                   <Card.Text className="text-center style">
-                    <strong className="body-title-style ">Full Stack Developer</strong>
+                    <strong className="body-title-style ">Full Time Intern</strong>
                     <br />
-                    <strong>Technology:</strong> React JS, DOTNET, C#, MS-SQL, Python
+                    <strong>Technology:</strong> React Native, Mobile App Development, Game Development
                     <br />
-                    <strong>Duration:</strong> June 2019 - Present
+                    <strong>Duration:</strong> December 2020 - Present
                     <br/>
                     <strong> Description </strong>
                     <ul className="text-left">
-                      <li><strong>Developed &amp; enhanced</strong> multiple features with customizability option across web application.</li>
-                      <li><strong>Developed</strong> automation system to create SQL bulk query scripts that 
-                        increased efficiency by 80% and decreased working hours from 4 hours to 30 mins per task.
+                      <li><strong>Developed &amp; enhanced</strong> multiple Mobile Games using React Native for both iOS and Android</li>
+                      <li><strong>Developed</strong> AR and VR games using ViroMedia SDK which is used to develop AR & VR apps in React Native. 
                       </li>
-                      <li><strong>Provided</strong> application maintenance while working as `Production Support`. 
-                      </li>
-                      <li><strong>Performed</strong> CRUD operations on multiple databases to load/ remove data according 
-                      to the business requirements.</li>
                       {/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
 
                     </ul>

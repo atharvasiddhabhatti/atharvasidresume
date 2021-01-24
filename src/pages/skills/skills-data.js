@@ -23,6 +23,14 @@ import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_TYPESCRIPT from "../../assets/img/skills/typescript.svg";
 import L_GOLANG from "../../assets/img/skills/go-6.svg";
 import L_PYTHON from "../../assets/img/skills/python.svg";
+import L_REACTNATIVE from "../../assets/img/skills/react_native.png"
+import L_PHP from "../../assets/img/skills/php.svg"
+import L_MYSQL from "../../assets/img/skills/mysql.png"
+import L_SPRINGBOOT from "../../assets/img/skills/spring-boot.png"
+import L_RESTAPI from "../../assets/img/skills/rest-api.jpg"
+import L_GCP from "../../assets/img/skills/gcp.png"
+import L_C from "../../assets/img/skills/c.png"
+import L_CPP from "../../assets/img/skills/c++.png"
 
 export const skills = {
   frontend: [
@@ -45,22 +53,16 @@ export const skills = {
       skillName: "JavaScript",
     },
     {
-      link: "https://sass-lang.com/",
-      imgAltText: "Sass",
-      imgSrc: L_SASS,
-      skillName: "Sass",
-    },
-    {
-      link: "https://getbootstrap.com/",
-      imgAltText: "Bootstrap",
-      imgSrc: L_BOOTSTRAP,
-      skillName: "Bootstrap",
-    },
-    {
       link: "https://reactjs.org/",
       imgAltText: "React JS",
       imgSrc: L_REACT,
       skillName: "React JS",
+    },
+    {
+      link: "https://reactnative.dev/",
+      imgAltText: "React Native",
+      imgSrc: L_REACTNATIVE,
+      skillName: "React Native",
     },
     {
       link: "https://redux.js.org/",
@@ -75,24 +77,11 @@ export const skills = {
       skillName: "React Router",
     },
     {
-      link: "https://material-ui.com/",
-      imgAltText: "Material-UI",
-      imgSrc: L_MATERIALUI,
-      skillName: "Material-UI",
-    },
-    {
       link: "https://react-bootstrap.github.io/",
       imgAltText: "React Bootstrap",
       imgSrc: L_REACT_BOOTSTRAP,
       skillName: "React Bootstrap",
-    },
-    {
-      link: "https://styled-components.com/",
-      imgAltText: "styled-components",
-      imgSrc: L_STYLED_COMPONENTS,
-      skillName: "styled-components",
-    },
-    
+    }, 
   ],
 
   backend: [
@@ -103,22 +92,16 @@ export const skills = {
       skillName: "Node.js",
     },
     {
-      link: "https://expressjs.com/",
-      imgAltText: "Express",
-      imgSrc: L_EXPRESS,
-      skillName: "Express",
+      link: "https://spring.io/",
+      imgAltText: "Spring Boot",
+      imgSrc: L_SPRINGBOOT,
+      skillName: "Spring Boot",
     },
     {
-      link: "https://www.djangoproject.com/",
-      imgAltText: "Django",
-      imgSrc: L_DJANGO,
-      skillName: "Django",
-    },
-    {
-      link: "https://flask.palletsprojects.com/",
-      imgAltText: "Flask",
-      imgSrc: L_FLASK,
-      skillName: "Flask",
+      link: "https://restfulapi.net/",
+      imgAltText: "RestAPI",
+      imgSrc: L_RESTAPI,
+      skillName: "RestAPI",
     },
   ],
   hostingPlatforms: [
@@ -129,10 +112,10 @@ export const skills = {
       skillName: "Heroku",
     },
     {
-      link: "https://www.digitalocean.com/",
-      imgAltText: "Digital Ocean",
-      imgSrc: L_DIGITAL_OCEAN,
-      skillName: "Digital Ocean",
+      link: "https://cloud.google.com/",
+      imgAltText: "Google Cloud",
+      imgSrc: L_GCP,
+      skillName: "Google Cloud",
     },
     {
       link: "https://pages.github.com/",
@@ -148,12 +131,7 @@ export const skills = {
       imgSrc: L_JAVASCRIPT,
       skillName: "JavaScript",
     },
-    {
-      link: "https://www.typescriptlang.org/",
-      imgAltText: "TypeScript",
-      imgSrc: L_TYPESCRIPT,
-      skillName: "TypeScript",
-    },
+   
     {
       link: "https://www.python.org/",
       imgAltText: "Python",
@@ -161,10 +139,16 @@ export const skills = {
       skillName: "Python",
     },
     {
-      link: "https://golang.org/",
-      imgAltText: "Golang",
-      imgSrc: L_GOLANG,
-      skillName: "Golang",
+      link: "https://www.cprogramming.com/",
+      imgAltText: "C",
+      imgSrc: L_C,
+      skillName: "C Programming",
+    },
+    {
+      link: "https://www.cplusplus.com/",
+      imgAltText: "C++",
+      imgSrc: L_CPP,
+      skillName: "C++",
     },
   ],
   databases: [
