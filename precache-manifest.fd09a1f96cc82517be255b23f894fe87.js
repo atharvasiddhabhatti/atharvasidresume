@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3b65fad4d2dca75b0aad8d4d8e68268",
+    "revision": "0b7c21d762c5efd17512d86568549848",
     "url": "/atharvasidresume/index.html"
   },
   {
-    "revision": "5ef64da80bd125a79444",
+    "revision": "0297e7ea7c0626b3431b",
     "url": "/atharvasidresume/static/css/main.adcaeb75.chunk.css"
   },
   {
-    "revision": "e8af084b9e1b663aaa28",
-    "url": "/atharvasidresume/static/js/2.953855dc.chunk.js"
+    "revision": "0587af7e8f55ef831c20",
+    "url": "/atharvasidresume/static/js/2.791ff1b4.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/atharvasidresume/static/js/2.953855dc.chunk.js.LICENSE.txt"
+    "url": "/atharvasidresume/static/js/2.791ff1b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ef64da80bd125a79444",
-    "url": "/atharvasidresume/static/js/main.2f6a8668.chunk.js"
+    "revision": "0297e7ea7c0626b3431b",
+    "url": "/atharvasidresume/static/js/main.ed9b0d1b.chunk.js"
   },
   {
     "revision": "719957b9f3070bbce4c1",
@@ -110,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "676e8188f003ed5d4882a0d0f378dad3",
     "url": "/atharvasidresume/static/media/html-5.676e8188.svg"
+  },
+  {
+    "revision": "3507a54cddf38690d0256e76a60a287a",
+    "url": "/atharvasidresume/static/media/iotproject.3507a54c.png"
   },
   {
     "revision": "2d2e31cc63a96c7e6044f52d30fd21b9",

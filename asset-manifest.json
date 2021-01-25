@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/atharvasidresume/static/css/main.adcaeb75.chunk.css",
-    "main.js": "/atharvasidresume/static/js/main.2f6a8668.chunk.js",
-    "main.js.map": "/atharvasidresume/static/js/main.2f6a8668.chunk.js.map",
+    "main.js": "/atharvasidresume/static/js/main.ed9b0d1b.chunk.js",
+    "main.js.map": "/atharvasidresume/static/js/main.ed9b0d1b.chunk.js.map",
     "runtime-main.js": "/atharvasidresume/static/js/runtime-main.69953454.js",
     "runtime-main.js.map": "/atharvasidresume/static/js/runtime-main.69953454.js.map",
-    "static/js/2.953855dc.chunk.js": "/atharvasidresume/static/js/2.953855dc.chunk.js",
-    "static/js/2.953855dc.chunk.js.map": "/atharvasidresume/static/js/2.953855dc.chunk.js.map",
+    "static/js/2.791ff1b4.chunk.js": "/atharvasidresume/static/js/2.791ff1b4.chunk.js",
+    "static/js/2.791ff1b4.chunk.js.map": "/atharvasidresume/static/js/2.791ff1b4.chunk.js.map",
     "index.html": "/atharvasidresume/index.html",
-    "precache-manifest.c1910d4c6de962ed048cff82e505608e.js": "/atharvasidresume/precache-manifest.c1910d4c6de962ed048cff82e505608e.js",
+    "precache-manifest.fd09a1f96cc82517be255b23f894fe87.js": "/atharvasidresume/precache-manifest.fd09a1f96cc82517be255b23f894fe87.js",
     "service-worker.js": "/atharvasidresume/service-worker.js",
     "static/css/main.adcaeb75.chunk.css.map": "/atharvasidresume/static/css/main.adcaeb75.chunk.css.map",
-    "static/js/2.953855dc.chunk.js.LICENSE.txt": "/atharvasidresume/static/js/2.953855dc.chunk.js.LICENSE.txt",
+    "static/js/2.791ff1b4.chunk.js.LICENSE.txt": "/atharvasidresume/static/js/2.791ff1b4.chunk.js.LICENSE.txt",
     "static/media/React_ToDo_List.webp": "/atharvasidresume/static/media/React_ToDo_List.8897aeb6.webp",
     "static/media/Robofriends.webp": "/atharvasidresume/static/media/Robofriends.9730fefc.webp",
     "static/media/accenture-3.svg": "/atharvasidresume/static/media/accenture-3.21999f09.svg",
@@ -34,6 +34,7 @@
     "static/media/go-6.svg": "/atharvasidresume/static/media/go-6.30bd42ea.svg",
     "static/media/heroku.svg": "/atharvasidresume/static/media/heroku.b38ff61a.svg",
     "static/media/html-5.svg": "/atharvasidresume/static/media/html-5.676e8188.svg",
+    "static/media/iotproject.png": "/atharvasidresume/static/media/iotproject.3507a54c.png",
     "static/media/javascript.svg": "/atharvasidresume/static/media/javascript.2d2e31cc.svg",
     "static/media/logow.webp": "/atharvasidresume/static/media/logow.d13a07af.webp",
     "static/media/material-ui-1.svg": "/atharvasidresume/static/media/material-ui-1.82291019.svg",
@@ -63,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.69953454.js",
-    "static/js/2.953855dc.chunk.js",
+    "static/js/2.791ff1b4.chunk.js",
     "static/css/main.adcaeb75.chunk.css",
-    "static/js/main.2f6a8668.chunk.js"
+    "static/js/main.ed9b0d1b.chunk.js"
   ]
 }
