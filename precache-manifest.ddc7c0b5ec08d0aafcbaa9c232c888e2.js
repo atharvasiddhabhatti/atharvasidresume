@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b7c21d762c5efd17512d86568549848",
+    "revision": "b005b93de521b32d607abbff7e4d81ca",
     "url": "/atharvasidresume/index.html"
   },
   {
-    "revision": "0297e7ea7c0626b3431b",
+    "revision": "e13dca5ef9178e9030f2",
     "url": "/atharvasidresume/static/css/main.adcaeb75.chunk.css"
   },
   {
-    "revision": "0587af7e8f55ef831c20",
-    "url": "/atharvasidresume/static/js/2.791ff1b4.chunk.js"
+    "revision": "e6fde5fd3a3e9411aaf2",
+    "url": "/atharvasidresume/static/js/2.ddcab8a7.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/atharvasidresume/static/js/2.791ff1b4.chunk.js.LICENSE.txt"
+    "url": "/atharvasidresume/static/js/2.ddcab8a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0297e7ea7c0626b3431b",
-    "url": "/atharvasidresume/static/js/main.ed9b0d1b.chunk.js"
+    "revision": "e13dca5ef9178e9030f2",
+    "url": "/atharvasidresume/static/js/main.89163d80.chunk.js"
   },
   {
     "revision": "719957b9f3070bbce4c1",
