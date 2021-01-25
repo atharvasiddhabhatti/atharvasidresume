@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/atharvasidresume/static/css/main.adcaeb75.chunk.css",
-    "main.js": "/atharvasidresume/static/js/main.6585e397.chunk.js",
-    "main.js.map": "/atharvasidresume/static/js/main.6585e397.chunk.js.map",
+    "main.js": "/atharvasidresume/static/js/main.2f6a8668.chunk.js",
+    "main.js.map": "/atharvasidresume/static/js/main.2f6a8668.chunk.js.map",
     "runtime-main.js": "/atharvasidresume/static/js/runtime-main.69953454.js",
     "runtime-main.js.map": "/atharvasidresume/static/js/runtime-main.69953454.js.map",
     "static/js/2.953855dc.chunk.js": "/atharvasidresume/static/js/2.953855dc.chunk.js",
     "static/js/2.953855dc.chunk.js.map": "/atharvasidresume/static/js/2.953855dc.chunk.js.map",
     "index.html": "/atharvasidresume/index.html",
-    "precache-manifest.ad9017e093f45b435ad3be4acbb7c12b.js": "/atharvasidresume/precache-manifest.ad9017e093f45b435ad3be4acbb7c12b.js",
+    "precache-manifest.c1910d4c6de962ed048cff82e505608e.js": "/atharvasidresume/precache-manifest.c1910d4c6de962ed048cff82e505608e.js",
     "service-worker.js": "/atharvasidresume/service-worker.js",
     "static/css/main.adcaeb75.chunk.css.map": "/atharvasidresume/static/css/main.adcaeb75.chunk.css.map",
     "static/js/2.953855dc.chunk.js.LICENSE.txt": "/atharvasidresume/static/js/2.953855dc.chunk.js.LICENSE.txt",
@@ -45,7 +45,7 @@
     "static/media/portfolioUsingDjango.webp": "/atharvasidresume/static/media/portfolioUsingDjango.95dd3e00.webp",
     "static/media/postgresql.svg": "/atharvasidresume/static/media/postgresql.d7c985e7.svg",
     "static/media/product_hunt_clone.webp": "/atharvasidresume/static/media/product_hunt_clone.4bef4c3e.webp",
-    "static/media/profile.webp": "/atharvasidresume/static/media/profile.e2cc6118.webp",
+    "static/media/profile.jpg": "/atharvasidresume/static/media/profile.70908077.jpg",
     "static/media/python.svg": "/atharvasidresume/static/media/python.146716bd.svg",
     "static/media/react-bootstrap.svg": "/atharvasidresume/static/media/react-bootstrap.ef194ddf.svg",
     "static/media/react-router.svg": "/atharvasidresume/static/media/react-router.02419671.svg",
@@ -65,6 +65,6 @@
     "static/js/runtime-main.69953454.js",
     "static/js/2.953855dc.chunk.js",
     "static/css/main.adcaeb75.chunk.css",
-    "static/js/main.6585e397.chunk.js"
+    "static/js/main.2f6a8668.chunk.js"
   ]
 }
