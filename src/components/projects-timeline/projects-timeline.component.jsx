@@ -12,6 +12,7 @@ import L_ProductHuntClone from "../../assets/img/projects/product_hunt_clone.web
 import L_PortfolioUsingDjango from "../../assets/img/projects/portfolioUsingDjango.webp";
 import Accordion from "react-bootstrap/Accordion";
 import Card from "react-bootstrap/Card";
+import L_IotProject from "../../assets/img/projects/iotproject.png"
 
 // skills
 import L_REACT from "../../assets/img/skills/react.svg";
@@ -46,7 +47,7 @@ const TimeLine = () => {
             date="05/03/2018"
             className="text-center"
             text="Homeautomation and Temperature Monitoring Using IOT"
-            // src={}
+            src={L_IotProject}
             alt="Homeautomation and Temperature Monitoring Using IOT"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
