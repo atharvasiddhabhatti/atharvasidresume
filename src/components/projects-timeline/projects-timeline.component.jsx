@@ -13,6 +13,7 @@ import L_PortfolioUsingDjango from "../../assets/img/projects/portfolioUsingDjan
 import Accordion from "react-bootstrap/Accordion";
 import Card from "react-bootstrap/Card";
 import L_IotProject from "../../assets/img/projects/iotproject.png"
+import L_ARRESUME from "../../assets/img/projects/arresume.jpeg"
 
 // skills
 import L_REACT from "../../assets/img/skills/react.svg";
@@ -33,6 +34,7 @@ import L_PHP from "../../assets/img/skills/php.svg"
 import L_MYSQL from "../../assets/img/skills/mysql.png"
 import L_SPRINGBOOT from "../../assets/img/skills/spring-boot.png"
 import L_RESTAPI from "../../assets/img/skills/rest-api.jpg"
+import L_VIROREACT from "../../assets/img/skills/viroreact.png"
 
 import "./projects-timeline.styles.css";
 
@@ -148,12 +150,12 @@ const TimeLine = () => {
                 >
                   BackEnd Code
                 </UrlButton> */}
-                {/* <UrlButton
-                  href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-materialui-fun-activity-6716765686963826688-GIpZ"
+                <UrlButton
+                  href="https://github.com/atharvasiddhabhatti/homeautomationiot"
                   target="_blank"
                 >
-                  WATCH VIDEO
-                </UrlButton> */}
+                  Code
+                </UrlButton>
               </div>
             </div>
           </ImageEvent>
@@ -271,6 +273,94 @@ const TimeLine = () => {
                   target="_blank"
                 >
                   BackEnd Code
+                </UrlButton>
+                {/* <UrlButton
+                  // href=""
+                  target="_blank"
+                >
+                  Live Demo
+                </UrlButton> */}
+              </div>
+            </div>
+          </ImageEvent>
+
+          {/* AR Resume*/}
+            <ImageEvent
+            date="05/02/2021"
+            className="text-center"
+            text="AR Resume"
+            src={L_ARRESUME}
+            alt="AR Resume"
+          >
+            <div className="d-flex justify-content-between flex-column mt-1">
+              <div>
+                <Accordion>
+                  <Card>
+                    <Accordion.Toggle
+                      as={Card.Header}
+                      eventKey="0"
+                      className="p-2 text-center accordian-main"
+                    >
+                      PROJECT DETAILS
+                    </Accordion.Toggle>
+
+                    <Accordion.Collapse eventKey="0" className="text-left">
+                      <Card.Body>
+                        <strong>Description:</strong> Resume is one of the very important document to get a job.
+                        It shows the complete Profile of yourself, staring from the academic to skills to work experince you have. 
+                        Making this document a user interactive can really showcase your skills in a better way. 
+                         
+                        <hr />
+                        <strong>Features:</strong>
+                        <ul className="list-styles pt-1">
+                          <li>Scan the Physical resume and show different AR component such as buttons poster which a user can interact with.</li>
+                          <li>Each component is Hyperlinked to their particular content such as certificates, Project github links etc.</li>
+                          <li>App also provide a link to download the latest version of the resume.</li>
+                          <li>Resume also has the QR code which scanned will direct link you to the App which is available on the Google Play Store.</li>
+                          <li>Powered by React-Native, ViroReact</li>
+                        </ul>
+                        <hr />
+                        <strong>Tech used:</strong>
+                        <ul>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_REACT}
+                                alt="React"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              React
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_VIROREACT}
+                                alt="ViroReact"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              ViroReact
+                            </span>
+                          </li>
+                        </ul>
+                      </Card.Body>
+                    </Accordion.Collapse>
+                  </Card>
+                </Accordion>
+              </div>
+              <div className="d-flex justify-content-between flex-nowrap text-center">
+              <UrlButton
+                  href="https://github.com/atharvasiddhabhatti/AR_Resume"
+                  target="_blank"
+                >
+                  Source Code
+                </UrlButton>
+                <UrlButton
+                  href="https://play.google.com/store/apps/details?id=com.atharvasidresume"
+                >
+                  Download App
                 </UrlButton>
                 {/* <UrlButton
                   // href=""
