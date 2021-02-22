@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/atharvasidresume/static/css/main.78968953.chunk.css",
-    "main.js": "/atharvasidresume/static/js/main.d43d7253.chunk.js",
-    "main.js.map": "/atharvasidresume/static/js/main.d43d7253.chunk.js.map",
+    "main.js": "/atharvasidresume/static/js/main.90414fb4.chunk.js",
+    "main.js.map": "/atharvasidresume/static/js/main.90414fb4.chunk.js.map",
     "runtime-main.js": "/atharvasidresume/static/js/runtime-main.69953454.js",
     "runtime-main.js.map": "/atharvasidresume/static/js/runtime-main.69953454.js.map",
     "static/js/2.63d22401.chunk.js": "/atharvasidresume/static/js/2.63d22401.chunk.js",
     "static/js/2.63d22401.chunk.js.map": "/atharvasidresume/static/js/2.63d22401.chunk.js.map",
     "index.html": "/atharvasidresume/index.html",
-    "precache-manifest.33ccb0a744b376c553ef3b55a3c424d8.js": "/atharvasidresume/precache-manifest.33ccb0a744b376c553ef3b55a3c424d8.js",
+    "precache-manifest.bab28b3d8a0dacaa9ab9f8ac179d67c9.js": "/atharvasidresume/precache-manifest.bab28b3d8a0dacaa9ab9f8ac179d67c9.js",
     "service-worker.js": "/atharvasidresume/service-worker.js",
     "static/css/main.78968953.chunk.css.map": "/atharvasidresume/static/css/main.78968953.chunk.css.map",
     "static/js/2.63d22401.chunk.js.LICENSE.txt": "/atharvasidresume/static/js/2.63d22401.chunk.js.LICENSE.txt",
@@ -49,6 +49,6 @@
     "static/js/runtime-main.69953454.js",
     "static/js/2.63d22401.chunk.js",
     "static/css/main.78968953.chunk.css",
-    "static/js/main.d43d7253.chunk.js"
+    "static/js/main.90414fb4.chunk.js"
   ]
 }

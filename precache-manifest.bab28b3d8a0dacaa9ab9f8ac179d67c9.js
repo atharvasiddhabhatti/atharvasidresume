@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "397092487b370581f8e381069ff091dc",
+    "revision": "c3cf48490f442b460e9f916bef23972a",
     "url": "/atharvasidresume/index.html"
   },
   {
-    "revision": "3108be890ee530beaba7",
+    "revision": "01dbc867597d930b72c5",
     "url": "/atharvasidresume/static/css/main.78968953.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/atharvasidresume/static/js/2.63d22401.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3108be890ee530beaba7",
-    "url": "/atharvasidresume/static/js/main.d43d7253.chunk.js"
+    "revision": "01dbc867597d930b72c5",
+    "url": "/atharvasidresume/static/js/main.90414fb4.chunk.js"
   },
   {
     "revision": "719957b9f3070bbce4c1",
