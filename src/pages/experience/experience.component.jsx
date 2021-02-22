@@ -2,7 +2,6 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Card from "react-bootstrap/Card";
-import L_ACCENTURE from "../../assets/img/experience/accenture-3.svg";
 import L_CLOUGILE from "../../assets/img/experience/clougile.png"
 import Tilt from "react-tilt";
 import "./experience.styles.css";
@@ -29,17 +28,14 @@ const Experience = () => {
                     <strong>Technology:</strong> React Native, Mobile App Development, Game Development
                     <br />
                     <strong>Duration:</strong> December 2020 - Present
-                    <br/>
+                    <br />
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li><strong>Developed &amp; enhanced</strong> multiple Mobile Games using React Native for both iOS and Android</li>
-                      <li><strong>Developed</strong> AR and VR games using ViroMedia SDK which is used to develop AR & VR apps in React Native. 
+                      <li><strong>Developed</strong> AR and VR games using ViroMedia SDK which is used to develop AR & VR apps in React Native.
                       </li>
                       {/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
-
                     </ul>
-                    
-                    
                   </Card.Text>
                 </div>
               </Card.Body>
