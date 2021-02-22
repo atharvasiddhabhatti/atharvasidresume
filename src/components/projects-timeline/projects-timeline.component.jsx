@@ -7,6 +7,7 @@ import Accordion from "react-bootstrap/Accordion";
 import Card from "react-bootstrap/Card";
 import L_IotProject from "../../assets/img/projects/iotproject.png"
 import L_ARRESUME from "../../assets/img/projects/arresume.jpeg"
+import L_PORTFOLIO from "../../assets/img/projects/portfolio.PNG"
 
 // skills
 import L_REACT from "../../assets/img/skills/react.svg";
@@ -20,6 +21,7 @@ import L_MYSQL from "../../assets/img/skills/mysql.png"
 import L_SPRINGBOOT from "../../assets/img/skills/spring-boot.png"
 import L_RESTAPI from "../../assets/img/skills/rest-api.jpg"
 import L_VIROREACT from "../../assets/img/skills/viroreact.png"
+import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
 
 import "./projects-timeline.styles.css";
 
@@ -353,6 +355,97 @@ const TimeLine = () => {
                 >
                   Live Demo
                 </UrlButton> */}
+              </div>
+            </div>
+          </ImageEvent>
+
+          {/* Portfolio Website */}
+          <ImageEvent
+            date="05/03/2018"
+            className="text-center"
+            text="Portfolio Website in React JS"
+            src={L_PORTFOLIO}
+            alt="Portfolio Website in React JS"
+          >
+            <div className="d-flex justify-content-between flex-column mt-1">
+              <div>
+                <Accordion>
+                  <Card>
+                    <Accordion.Toggle
+                      as={Card.Header}
+                      eventKey="0"
+                      className="p-2 text-center accordian-main"
+                    >
+                      PROJECT DETAILS
+                    </Accordion.Toggle>
+
+                    <Accordion.Collapse eventKey="0" className="text-left">
+                      <Card.Body>
+                        <strong>Description:</strong>A portfolio is a compilation of materials that exemplifies your beliefs, skills, qualifications, education, training and experiences. 
+                        It provides insight into your personality and work ethic. Having your own Identity online is become very important now a days as everything is becoming digital, This can help you to showcase it. 
+                        <hr />
+                        <strong>Features:</strong>
+                        <ul className="list-styles pt-1">
+                          <li>Show your Skills</li>
+                          <li>Update your Project Timeline</li>
+                          <li>People can contact you using the different contact details available on the website.</li>
+                        </ul>
+                        <hr />
+                        <strong>Tech used:</strong>
+                        <ul>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_REACT}
+                                alt="React JS"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              React JS
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_CSS3}
+                                alt="CSS 3"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              CSS3
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_GITHUB_PAGES}
+                                alt="Github Pages"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              Github Pages
+                            </span>
+                          </li>
+                          
+                        </ul>
+                      </Card.Body>
+                    </Accordion.Collapse>
+                  </Card>
+                </Accordion>
+              </div>
+              <div className="d-flex justify-content-between flex-nowrap text-center">
+                <UrlButton
+                  href="http://www.tinyurl.com/atharvasid"
+                  target="_blank"
+                >
+                  SEE LIVE
+                </UrlButton>
+                <UrlButton
+                  href="https://github.com/atharvasiddhabhatti/atharvasidresume/tree/master"
+                  target="_blank"
+                >
+                  Code
+                </UrlButton>
               </div>
             </div>
           </ImageEvent>
