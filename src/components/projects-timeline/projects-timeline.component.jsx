@@ -361,7 +361,7 @@ const TimeLine = () => {
 
           {/* Portfolio Website */}
           <ImageEvent
-            date="05/03/2018"
+            date="01/02/2021"
             className="text-center"
             text="Portfolio Website in React JS"
             src={L_PORTFOLIO}
